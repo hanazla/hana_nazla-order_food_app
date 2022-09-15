@@ -10,7 +10,7 @@ BEGIN
 	back to retaurant page
    END IF
 7. process the delivery
-8. PRINT "is the selected card the one i wan to use?" (Y/N)
+8. PRINT "is the selected card the one i want to use?" (Y/N)
 9. IF the answer is Y THEN
 	proceed to pay
    ELSE 
