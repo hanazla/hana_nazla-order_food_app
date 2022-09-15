@@ -1,13 +1,13 @@
 BEGIN
 1. READ AND WRITE "location" with string
 3. READ AND WRITE "restaurant" with string
-4. SHOW "retaurant" page
+4. SHOW available retaurant
 5. choose restaurant
 6. SHOW restaurant detail page
 6. IF "restaurant" is open THEN
 	choose menu
    ELSE
-	back to retaurant page
+	back to available restaurant page
    END IF
 7. process the delivery
 8. PRINT "is the selected card the one i want to use?" (Y/N)
